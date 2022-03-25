@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805999960033",
+    "firebase_url": "https://loginform-7bdaa-default-rtdb.firebaseio.com",
+    "project_id": "loginform-7bdaa",
+    "storage_bucket": "loginform-7bdaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805999960033:android:549db91c96d35700423ca0",
+        "android_client_info": {
+          "package_name": "com.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805999960033-t5gdsve15h55odccaon0rh8p60clc1nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaNyu3795v8C3x6YZC-09n2eH3pvkT08Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805999960033-t5gdsve15h55odccaon0rh8p60clc1nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
